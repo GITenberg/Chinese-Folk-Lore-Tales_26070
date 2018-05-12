@@ -1,0 +1,30 @@
+_repo: Chinese-Folk-Lore-Tales_26070
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macgowan, J. (John)
+    alias: Macgowan, John
+    deathdate: 1922
+    gutenberg_agent_id: '31779'
+    url: http://www.gutenberg.org/2009/agents/31779
+description: ''
+gutenberg_issued: '2008-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- China'
+- !lcc 'GR'
+tableOfContents: The Widow Ho -- Kwang-Jui and the God of the River -- The beautiful
+  daughter of Liu-Kung -- The fairy bonze -- The mysterious Buddhist robe -- The vengeance
+  of the Goddess -- "The Wonderful Man" -- The God of the City -- The tragedy of the
+  Yin family -- Sam-Chung and the Water Demon -- The reward of a benevolent life.
+title: Chinese Folk-Lore Tales
+url: http://www.gutenberg.org/ebooks/26070
